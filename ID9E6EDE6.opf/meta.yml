@@ -1,0 +1,16 @@
+id: ID9E6EDE6
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 14:54:55.350376
+last_modified: 2023-02-09 14:54:55.350495
+source_metadata:
+  title: 'RK: Bodhisatvapiṭaka'
+  language: en
+bases:
+  '3661':
+    base_file: 3661.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
